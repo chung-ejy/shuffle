@@ -1,0 +1,36 @@
+{
+  "name": "faker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development --watch ./framework/frontend/src/index.js --output-path ./framework/frontend/static/frontend/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "@babel/preset-react": "^7.14.5",
+    "axios": "^0.21.1",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "package.json": "^2.0.1",
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chung-ejy/shuffle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chung-ejy/shuffle/issues"
+  },
+  "homepage": "https://github.com/chung-ejy/shuffle#readme",
+  "description": ""
+}
