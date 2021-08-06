@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development --watch ./framework/frontend/src/index.js --output-path ./framework/frontend/static/frontend/"
+    "dev": "webpack --mode development --watch ./shuffle/frontend/src/index.js --output-path ./shuffle/frontend/static/frontend/"
   },
   "keywords": [],
   "author": "",
